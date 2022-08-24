@@ -12,7 +12,7 @@
     Space: O(1)
 '''
 
-def maxProfit(self, prices):
+def maxProfit(prices):
     """
     :type prices: List[int]
     :rtype: int

@@ -15,7 +15,7 @@
     Space: O(1)
 '''
 
-def findMin(self, nums):
+def findMin(nums):
     """
     :type nums: List[int]
     :rtype: int

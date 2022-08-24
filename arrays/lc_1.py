@@ -12,7 +12,7 @@
     Space: O(n) since we use an additional hashmap
 '''
 
-def twoSum(self, nums, target):
+def twoSum(nums, target):
     """
     :type nums: List[int]
     :type target: int

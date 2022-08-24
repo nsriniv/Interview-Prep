@@ -13,7 +13,7 @@
     Space: O(1) since we don't count the space of the output array
 '''
 
-def productExceptSelf(self, nums):
+def productExceptSelf(nums):
     """
     :type nums: List[int]
     :rtype: List[int]

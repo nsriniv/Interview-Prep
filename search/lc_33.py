@@ -1,6 +1,6 @@
 '''
     Leetcode 33: Search in Rotated Sorted Array
-    https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+    https://leetcode.com/problems/search-in-rotated-sorted-array/
 
     Solution:
     Since the list was sorted before being rotated, we can take advantage of this
@@ -25,7 +25,7 @@
     Space: O(1)
 '''
 
-def search(self, nums, target):
+def search(nums, target):
 
     """
     :type nums: List[int]

@@ -13,7 +13,7 @@
     Space: O(1)
 '''
 
-def maxSubArray(self, nums):
+def maxSubArray(nums):
     curr = 0
     max_sub = nums[0]
 

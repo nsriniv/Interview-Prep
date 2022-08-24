@@ -11,7 +11,7 @@
     Space: O(n) since we use an additional set
 '''
 
-def containsDuplicate(self, nums):
+def containsDuplicate(nums):
     """
     :type nums: List[int]
     :rtype: bool

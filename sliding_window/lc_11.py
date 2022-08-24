@@ -12,7 +12,7 @@
     Space: O(1)
 '''
 
-def maxArea(self, height):
+def maxArea(height):
     """
     :type height: List[int]
     :rtype: int
