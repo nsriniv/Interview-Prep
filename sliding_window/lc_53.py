@@ -12,6 +12,7 @@
     Time: O(n) since we make one pass through the array
     Space: O(1)
 '''
+
 def maxSubArray(self, nums):
     curr = 0
     max_sub = nums[0]
